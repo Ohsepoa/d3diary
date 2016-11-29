@@ -24,7 +24,7 @@ define('_MD_D3DIARY_CONFIRM_DONOTIFIMPORT','Você realmente deseja mover as noti
 define('_MD_D3DIARY_MAXTEXT','Comprimento máximo do texto:');
 define('_MD_D3DIARY_TOPICSPOSTS','Usar bloco:');
 define('_MD_D3DIARY_USEAGGRE','Usar agragação com outros fóruns:');
-define('_MD_D3DIARY_CATLIMIT','ID da categoria');
+define('_MD_D3DIARY_CATLIMIT','ID da Categoria');
 define('_MD_D3DIARY_FORUMLIMIT','ID do Fórum');
 
 ?>
