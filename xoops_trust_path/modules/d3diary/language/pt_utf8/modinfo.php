@@ -15,7 +15,7 @@ define($constpref."_DIARY_DESC","D3diario");
 define($constpref."_DIARYLIST","Novos diários");
 define($constpref."_EDIT","Escrever no diário");
 define($constpref."_CATEGORY","Categoria");
-define($constpref."_COMMENT","Lista de Comentários");
+define($constpref."_COMMENT","Lista de comentários");
 define($constpref."_CONFIG","Configuração do Diário");
 define($constpref."_CONFIG_CATEGORY","Configuração da categoria");
 define($constpref."_YES","Sim");
