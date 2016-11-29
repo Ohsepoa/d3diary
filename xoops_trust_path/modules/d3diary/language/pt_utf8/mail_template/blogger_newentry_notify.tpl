@@ -10,7 +10,7 @@ Você pode vizualizar o post acessando o link abaixo:
 
 {ENTRY_URI}
 
------------
+-------------
 
 
 Você está recebendo está mensagem porque escolheu ser notificado quando comentários fossem adicionados ao post {ENTRY_TITLE}.
