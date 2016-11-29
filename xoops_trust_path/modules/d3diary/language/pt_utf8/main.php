@@ -1,6 +1,6 @@
 <?php
 
-define("_MD_FORBIDDEN","Este diário está fechado.");
+define("_MD_FORBIDDEN","Este Diário está fechado.");
 define("_MD_NODIARYURL","A URL do blog não foi especificada.");
 define("_MD_NORSSURL","O RSS do blog não foi especificado.");
 define("_MD_CONF_LINK","Mudando a configuração deste diário");
