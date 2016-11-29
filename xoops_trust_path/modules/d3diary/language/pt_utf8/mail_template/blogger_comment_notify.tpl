@@ -22,4 +22,4 @@ Se isto estiver errado ou você não mais deseja receber nossos avisos, por favo
 {X_SITENAME} ({X_SITEURL}) 
 Webmaster
 {X_ADMINMAIL}
------------
+-------------
