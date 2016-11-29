@@ -10,7 +10,7 @@ define( $constpref.'_LOADED' , 1 ) ;
 // definitions for displaying blocks 
 
 define($constpref."_DIARY","Diário");
-define($constpref."_NOTITLE","Não existe título");
+define($constpref."_NOTITLE","Não Existe título");
 define($constpref."_EXIST_COMMENTS","Comentários existentes");
 define($constpref."_NO_COMMENTS","Não existe comentário");
 define($constpref."_MORE","Mais..");
